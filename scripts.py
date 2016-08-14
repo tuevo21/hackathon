@@ -1,3 +1,5 @@
+#scape images from bing search given a name
+
 from beautifulscraper import BeautifulScraper
 import html5lib
 from HTMLParser import HTMLParser
